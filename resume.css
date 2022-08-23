@@ -167,12 +167,13 @@ hr {
   background-color: black;
   border-radius: 5px;
   color: #fff;
-  height: 37px;
-  width: 171px;
+  height: 23px;
+  width: 113px;
   margin-top: 3px;
+  padding-left: 5px;
 }
 .edu ul li {
-  margin: 0px 4px;
+  margin: -4px 4px;
   list-style-type: none;
 }
 .certificate {
@@ -180,9 +181,10 @@ hr {
   background-color: black;
   border-radius: 5px;
   color: #fff;
-  height: 37px;
-  width: 292px;
+  height: 23px;
+  width: 255px;
   margin-top: 7px;
+  padding-left: 5px;
 }
 .cert ul li {
   list-style-type: none;
@@ -192,9 +194,10 @@ hr {
   background-color: black;
   border-radius: 5px;
   color: #fff;
-  height: 37px;
-  width: 292px;
+  height: 23px;
+  width: 195px;
   margin-top: 11px;
+  padding-left: 5px;
 }
 .pro {
   display: inline-block;
@@ -208,9 +211,10 @@ hr {
   background-color: black;
   border-radius: 5px;
   color: #fff;
-  height: 37px;
-  width: 172px;
-  margin-top: 10px;
+  height: 23px;
+  width: 142px;
+  margin-top: 0px;
+  padding-left: 5px;
 }
 .declaration_p {
   margin: 4px 5px;
